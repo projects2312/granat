@@ -139,7 +139,8 @@ a {
 
 /* main-section */
 .main-section {
-  background: url(../img/main.jpeg) no-repeat 20% center/25%, #fdf3ec;
+  /*background: url(../img/main.jpeg) no-repeat 20% center/25%, #fdf3ec;*/
+  background: url(../img/photo_55.png) no-repeat center/90%, #fdf3ec;
   padding-bottom: 50px;
 }
 
@@ -225,7 +226,7 @@ a {
   -ms-flex-pack: center;
   justify-content: center;
   margin-top: 60px;
-  margin-left: 90px;
+  margin-left: 280px;
 }
 
 .main-subtitle li {
